@@ -55,4 +55,11 @@
 ![image](https://user-images.githubusercontent.com/93308960/198092907-c225faca-5120-468a-ad7f-19727ea029ed.png)
 
 
+## d) Kali linux asennus
+
+
+![image](https://user-images.githubusercontent.com/93308960/198114507-3425b53d-cf08-458a-8416-35330dd3d48f.png)
+
+
+![image](https://user-images.githubusercontent.com/93308960/198114452-f5c4ac68-29ed-4d91-90ab-f691751026c8.png)
 
