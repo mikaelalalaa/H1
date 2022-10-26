@@ -42,3 +42,17 @@
 
 ![image](https://user-images.githubusercontent.com/93308960/198058394-fc4c21c4-6749-4900-9dde-0d81a86073d6.png)
 
+
+## c) Over The Wire: Bandit (0-2)
+
+![image](https://user-images.githubusercontent.com/93308960/198089117-ecd3e6d7-aadb-4c2e-9442-f63140468f0c.png)
+
+
+![image](https://user-images.githubusercontent.com/93308960/198090384-c690224d-b76c-4b0f-adb6-2a380eae29d7.png)
+
+![image](https://user-images.githubusercontent.com/93308960/198090455-b49b54f0-a927-4261-bc4a-4b017ccf0656.png)
+
+![image](https://user-images.githubusercontent.com/93308960/198092907-c225faca-5120-468a-ad7f-19727ea029ed.png)
+
+
+
