@@ -63,3 +63,14 @@
 
 ![image](https://user-images.githubusercontent.com/93308960/198114452-f5c4ac68-29ed-4d91-90ab-f691751026c8.png)
 
+## e) Where was this picture taken? 2/4 (2021 Challenge.fi) 
+
+
+![image](https://user-images.githubusercontent.com/93308960/198120197-67191197-bf8a-4722-9457-6307868050a6.png)
+
+
+![image](https://user-images.githubusercontent.com/93308960/198121367-44c42ee5-b2f8-4577-a627-2b9d3962ac21.png)
+
+Blackpool Tower, Englanti
+
+
