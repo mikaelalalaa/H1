@@ -97,12 +97,14 @@ Puratun tiedoston sisältä löytyy valmis image jota klikkaamalla avautuu virtu
 
 ![image](https://user-images.githubusercontent.com/93308960/198704437-d3fdf09a-b1f8-4855-bca4-6838a92de253.png)
 
-
+Sitten vaan startattiin kone, salasana ja käyttäjä löytyi netistä. Tässä vaan päivittelin paketit ja testailin että toimii.
 
 ![image](https://user-images.githubusercontent.com/93308960/198114452-f5c4ac68-29ed-4d91-90ab-f691751026c8.png)
 
+
 ## e) Where was this picture taken? 2/4 (2021 Challenge.fi) 
 
+Valitsin tehtävän *Where was this picture taken? 2/4* 
 
 ![image](https://user-images.githubusercontent.com/93308960/198120197-67191197-bf8a-4722-9457-6307868050a6.png)
 
