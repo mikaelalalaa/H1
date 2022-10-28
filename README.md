@@ -25,7 +25,6 @@ Sitten itse asennukseen, webgoat saatiin ladattua komennolla `wget https://terok
 ![image](https://user-images.githubusercontent.com/93308960/198555854-38851ac1-dbbf-424b-816c-f3f682b7bd30.png)
 
 
-![image](https://user-images.githubusercontent.com/93308960/198051917-6eb22e79-b2ae-430b-acda-072143a8e517.png)
 
 Testasin että asennus onnistui kirjoittamalla selaimeen `http://localhost:8080/WebGoat/` ja pääsin kirajutumaan sivulle.
 
@@ -34,7 +33,7 @@ Testasin että asennus onnistui kirjoittamalla selaimeen `http://localhost:8080/
 
 
 
-![image](https://user-images.githubusercontent.com/93308960/198053301-878d658c-3758-41f5-ad9d-e63e1508e425.png)
+
 
 
 
@@ -72,14 +71,19 @@ Yhteyden saatua katsoin readme teidoston sisällön `cat readme`, joka sisälsi 
 
 ![image](https://user-images.githubusercontent.com/93308960/198090384-c690224d-b76c-4b0f-adb6-2a380eae29d7.png)
 
-Otin muistiin salasanan ja lopetin yheyden `exit` komenolla. Otin uuden yhteyden ssh toiseen käyttäjään,  
+Otin muistiin salasanan ja lopetin yheyden `exit` komenolla. Otin uuden ssh yhteyden toiselle käyttäjälle `ssh bandit1@bandit.labsoverthewire.org -p 2220` ja salasanana toimi muistiin otettu salasana. 
 
 ![image](https://user-images.githubusercontent.com/93308960/198090455-b49b54f0-a927-4261-bc4a-4b017ccf0656.png)
+
+
+Yhteyden muodostuksen jälkeen piti avata erikoismerkillä nimetty tiedosto, sain avattua sen komennolla `cat ./-`
+
 
 ![image](https://user-images.githubusercontent.com/93308960/198092907-c225faca-5120-468a-ad7f-19727ea029ed.png)
 
 
 ## d) Kali linux asennus
+
 
 
 ![image](https://user-images.githubusercontent.com/93308960/198114507-3425b53d-cf08-458a-8416-35330dd3d48f.png)
@@ -91,6 +95,14 @@ Otin muistiin salasanan ja lopetin yheyden `exit` komenolla. Otin uuden yhteyden
 
 
 ![image](https://user-images.githubusercontent.com/93308960/198120197-67191197-bf8a-4722-9457-6307868050a6.png)
+
+
+
+![image](https://user-images.githubusercontent.com/93308960/198696888-2a51d11f-aae2-4e63-993d-5ba7d05a889e.png)
+
+
+![image](https://user-images.githubusercontent.com/93308960/198697037-36994299-8c09-4681-a655-496aa540ce05.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/93308960/198121367-44c42ee5-b2f8-4577-a627-2b9d3962ac21.png)
