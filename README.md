@@ -3,6 +3,7 @@
 
 
 
+## x) darknet diaries
 
 
 
@@ -11,10 +12,22 @@
 
 ## a) webgoat asennus ja testaus
 
+asensin webgoatin olemassa olevaan debian virtuaalikonelle, asennuksessa seurasin opettajamme [Teron ohjeita](https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/).
+
+Aloitettiin päivittämällä paketit `sudo apt-get update`. Päivityksien jälkeen asennettiin java ja ufw.
+
+Ennen kun ruvettiin lataamaan itse webgoat niin katsottiin palomuuren asetukset `sudo ufw status verbose`, kuten kuvassa näkyy palomuuri on aktiivinen, se estää tulevan liikeneet ja sallii ulospäin menevän liikenteen.
+
 ![image](https://user-images.githubusercontent.com/93308960/198050912-417c5c9d-170f-473d-811f-9933b11866a6.png)
+
+Sitten itse asennukseen, webgoat saatiin ladattua komennolla `wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar`
+
+![image](https://user-images.githubusercontent.com/93308960/198555854-38851ac1-dbbf-424b-816c-f3f682b7bd30.png)
 
 
 ![image](https://user-images.githubusercontent.com/93308960/198051917-6eb22e79-b2ae-430b-acda-072143a8e517.png)
+
+Testasin että asennus onnistui kirjoittamalla selaimeen `http://localhost:8080/WebGoat/` ja pääsin kirajutumaan sivulle.
 
 ![image](https://user-images.githubusercontent.com/93308960/198053058-38b47ac0-81ee-4383-a970-f9b2f641aa29.png)
 
@@ -26,6 +39,9 @@
 
 
 ## b) Tehtävät "HTTP Basics" ja "Developer tools"
+
+Tein ensiksi tehtävän HTTP Basics. Tässä oli tarkoitus tutustua 
+
 
 ![image](https://user-images.githubusercontent.com/93308960/198056370-92420114-f4a3-4f4b-b031-df105b660ccb.png)
 
@@ -45,10 +61,18 @@
 
 ## c) Over The Wire: Bandit (0-2)
 
+Tehtävissä piti ottaa ssh yhetys käyttäjään ja saada sieltä tiedostosta salasana, jonka jälken otettiin uus yhteys toiseen käyttäjään.
+
+
+Avasin terminaalin johon kirjoitin komennon `ssh bandit@bandit.labsoverthewire.org -p 2220`
+
 ![image](https://user-images.githubusercontent.com/93308960/198089117-ecd3e6d7-aadb-4c2e-9442-f63140468f0c.png)
 
+Yhteyden saatua katsoin readme teidoston sisällön `cat readme`, joka sisälsi toisen käyttäjän salasanan. 
 
 ![image](https://user-images.githubusercontent.com/93308960/198090384-c690224d-b76c-4b0f-adb6-2a380eae29d7.png)
+
+Otin muistiin salasanan ja lopetin yheyden `exit` komenolla. Otin uuden yhteyden ssh toiseen käyttäjään,  
 
 ![image](https://user-images.githubusercontent.com/93308960/198090455-b49b54f0-a927-4261-bc4a-4b017ccf0656.png)
 
