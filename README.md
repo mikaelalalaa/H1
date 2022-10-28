@@ -84,9 +84,19 @@ Yhteyden muodostuksen jälkeen piti avata erikoismerkillä nimetty tiedosto, sai
 
 ## d) Kali linux asennus
 
-
+Koneesta löytyi jo virtualbox joten mentiin suoraan asentamaan itse kali linux konetta. Asennus tapahtui netistä osoitteesta [kali](https://www.kali.org/get-kali/#kali-virtual-machines), sieltä ladattiin 7z teidosto.
 
 ![image](https://user-images.githubusercontent.com/93308960/198114507-3425b53d-cf08-458a-8416-35330dd3d48f.png)
+
+Koska tiedosto oli 7z muodossa se piti purkaa (extract) käyttämällä 7-zip file manageria.
+
+![image](https://user-images.githubusercontent.com/93308960/198703286-3dd173a5-b201-43e3-b5da-8312a32db019.png)
+
+
+Puratun tiedoston sisältä löytyy valmis image jota klikkaamalla avautuu virtuaaliboxiin valmis kali virtuaali kone.
+
+![image](https://user-images.githubusercontent.com/93308960/198704437-d3fdf09a-b1f8-4855-bca4-6838a92de253.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/93308960/198114452-f5c4ac68-29ed-4d91-90ab-f691751026c8.png)
