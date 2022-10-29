@@ -3,10 +3,19 @@
 
 
 
-## x) darknet diaries
+## x) darknet diaries ep: 53 Shadow Brokers
 
+[Linkki jaksoon löytyy tästä!](https://darknetdiaries.com/episode/53/)
 
-
+* NSA ANT catalogue vuodettiin twitteriin, tämä sisälsi listan hakkereista, exploiteista ja kybervalvonta laitteista. Esimerkiksi; 
+  *   COTTONMOUTH; USB plug joka kaappaa kaikki sen läpi kulkevan datan ja lähettää tämän langattomasti.
+  *   DROPOUTJEEP; Iphone puhelimeen ladattava ohjelma joka paljastaa kaikki viestit, yhteystiedot, maantieteellisen sijainnin ja pystyy avata kameran ja mikin
+  *   DEITYBOUNCE; antaa takaoven pääsyn dell palvelimiin 
+* Vierailijana oli Jake Williams joka on töissä Rendition Security.
+* Jaksossa kerrottiin hakkeriryhmästä Shadow Brokerss, he olivat varastaneet kyber aseita NAS:alta ja olivat julkaisi joitan tiedostoja.   
+  * Paljastaisivta lisää jos heille maksettaisiin. 
+  * Hakkeriryhmä myös julkaisi IP-osoitteita ja lista palvelimista joita NASa on saastuttanut
+  * He myös paljastivat että Jake (vierailija) on ollut töissä NAS:alla 
 
 
 
@@ -115,19 +124,18 @@ Tehtävänä oli löytää mistä kyseinen kuva on otettu.
 
 ![image](https://user-images.githubusercontent.com/93308960/198121367-44c42ee5-b2f8-4577-a627-2b9d3962ac21.png)
 
-Aloitettiin katsomalla kuvan metadataa, avaamalla kuvan `Properties -> Details välilehti`. 
+Aloitettiin katsomalla kuvan metadataa, avaamalla kuvan `Properties -> Details välilehti`. GPS kohdasta löytyi koordinaatit jossa kuva on otettu, laitoin  koordinaatiti google mapsiin.
 
+![image](https://user-images.githubusercontent.com/93308960/198696888-2a51d11f-aae2-4e63-993d-5ba7d05a889e.png)
+
+Varmistin vielä että osasin laittaa koordinaatit oikein avaamalla kuvan ja painamalla `alt + enter` yhdistelmää. Tarkistin että osoitteet sopivat yhteen.
 
 ![image](https://user-images.githubusercontent.com/93308960/198697037-36994299-8c09-4681-a655-496aa540ce05.png)
 
 
-![image](https://user-images.githubusercontent.com/93308960/198696888-2a51d11f-aae2-4e63-993d-5ba7d05a889e.png)
 
 
 
-![image](https://user-images.githubusercontent.com/93308960/198120197-67191197-bf8a-4722-9457-6307868050a6.png)
 
-
-Blackpool Tower, Englanti
 
 
