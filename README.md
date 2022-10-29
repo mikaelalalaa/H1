@@ -132,6 +132,7 @@ Varmistin vielä että osasin laittaa koordinaatit oikein avaamalla kuvan ja pai
 
 ![image](https://user-images.githubusercontent.com/93308960/198697037-36994299-8c09-4681-a655-496aa540ce05.png)
 
+Kuva oli otettu Blackpool, United kingdom ja katu oli Bairstow St 
 
 ## lähteet
 
