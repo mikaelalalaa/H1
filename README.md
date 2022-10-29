@@ -54,7 +54,6 @@ eli tehtävän vastaukset olivat
 HTTP komento : POST
 
 Magic number : 38
-
 ```
 ![image](https://user-images.githubusercontent.com/93308960/198056370-92420114-f4a3-4f4b-b031-df105b660ccb.png)
 
