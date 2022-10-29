@@ -124,7 +124,8 @@ Tehtävänä oli löytää mistä kyseinen kuva on otettu.
 
 ![image](https://user-images.githubusercontent.com/93308960/198121367-44c42ee5-b2f8-4577-a627-2b9d3962ac21.png)
 
-Aloitettiin katsomalla kuvan metadataa, avaamalla kuvan `Properties -> Details välilehti`. GPS kohdasta löytyi koordinaatit jossa kuva on otettu, laitoin  koordinaatiti google mapsiin.
+Aloitettiin katsomalla kuvan metadataa, avaamalla kuvan `Properties -> Details välilehti`. GPS kohdasta löytyi koordinaatit jossa kuva on otettu, laitoin  koordinaatiti google mapsiin. Sain apua [Googlen](https://support.google.com/maps/answer/18539?hl=en&co=GENIE.Platform%3DDesktop) omalta sivulta miten koodrinaatit kirjotetaa.
+
 
 ![image](https://user-images.githubusercontent.com/93308960/198696888-2a51d11f-aae2-4e63-993d-5ba7d05a889e.png)
 
@@ -145,3 +146,4 @@ https://overthewire.org/wargames/
 
 https://2021.challenge.fi/
 
+https://support.google.com/maps/answer/18539?hl=en&co=GENIE.Platform%3DDesktop
