@@ -51,7 +51,7 @@ Magic number : 38
 
 ### Developer tools
 
-Ensimmäinen tehtävä oli suorittaa Consolessa javasripct koodi jonka jälkeen tämä tulostaa numerosarjan. 
+Ensimmäinen tehtävä oli suorittaa Consolessa javasripct koodi jonka jälkeen tämä tulostaa numerosarjan `-449513090`. 
 
 ![image](https://user-images.githubusercontent.com/93308960/198060919-db064a89-1f97-4b60-811d-91046ecbffce.png)
 
@@ -63,23 +63,23 @@ Viimeisenä tehtävänä oli HTTP pyynnöstä randomoitu numero. Aloitettiin pai
 
 ## c) Over The Wire: Bandit (0-2)
 
-Tehtävissä piti ottaa ssh yhetys käyttäjään ja saada sieltä tiedostosta salasana, jonka jälken otettiin uus yhteys toiseen käyttäjään.
+Tehtävissä piti ottaa ssh yhetys käyttäjään ja saada sieltä tiedostosta salasana, jonka jälken otettiin uus yhteys toiseen käyttäjään käyttämällä saatua salasanaa.
 
 
 Avasin terminaalin johon kirjoitin komennon `ssh bandit@bandit.labsoverthewire.org -p 2220`
 
 ![image](https://user-images.githubusercontent.com/93308960/198089117-ecd3e6d7-aadb-4c2e-9442-f63140468f0c.png)
 
-Yhteyden saatua katsoin readme teidoston sisällön `cat readme`, joka sisälsi toisen käyttäjän salasanan. 
+Yhteyden saatua katsoin readme teidoston sisällön `cat readme`, joka sisälsi salasanan. 
 
 ![image](https://user-images.githubusercontent.com/93308960/198090384-c690224d-b76c-4b0f-adb6-2a380eae29d7.png)
 
-Otin muistiin salasanan ja lopetin yheyden `exit` komenolla. Otin uuden ssh yhteyden toiselle käyttäjälle `ssh bandit1@bandit.labsoverthewire.org -p 2220`.
+Otin sen muistiin ja lopetin yheyden `exit` komenolla. Otin uuden ssh yhteyden toiselle käyttäjälle `ssh bandit1@bandit.labsoverthewire.org -p 2220`. *tässä käytettiin muistiin otettua salasanaa*
 
 ![image](https://user-images.githubusercontent.com/93308960/198090455-b49b54f0-a927-4261-bc4a-4b017ccf0656.png)
 
 
-Yhteyden muodostuksen jälkeen piti avata erikoismerkillä nimetty tiedosto, sain avattua sen komennolla `cat ./-`
+Yhteyden muodostuksen jälkeen piti avata erikoismerkillä nimetty tiedosto, sain avattua sen komennolla `cat ./-`  *tehtävään sain apua [stackoverflow sivustolta](https://stackoverflow.com/questions/42187323/how-to-open-a-dashed-filename-using-terminal)*
 
 
 ![image](https://user-images.githubusercontent.com/93308960/198092907-c225faca-5120-468a-ad7f-19727ea029ed.png)
