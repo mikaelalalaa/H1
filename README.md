@@ -20,16 +20,16 @@ Ennen kun ruvettiin lataamaan itse webgoat niin katsottiin palomuuren asetukset 
 
 ![image](https://user-images.githubusercontent.com/93308960/198050912-417c5c9d-170f-473d-811f-9933b11866a6.png)
 
-Sitten itse asennukseen, webgoat saatiin ladattua komennolla `wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar`
-
-![image](https://user-images.githubusercontent.com/93308960/198555854-38851ac1-dbbf-424b-816c-f3f682b7bd30.png)
-
+Sitten itse asennukseen, webgoat saatiin ladattua komennolla 
+`wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar`. Asennuksen jälkeen palvelin käynnistettiin `java -jar webgoat-server-8.0.0.M26.jar` 
 
 
-Testasin että asennus onnistui kirjoittamalla selaimeen `http://localhost:8080/WebGoat/` ja pääsin kirajutumaan sivulle.
+![image](https://user-images.githubusercontent.com/93308960/198833486-1436b4ce-ec0a-4002-a98c-041c782175e2.png)
+
+
+Testasin että asennus ja palvelimen käynnistäminen onnistui kirjoittamalla selaimeen `http://localhost:8080/WebGoat/`. Sivu näkyi ja pääsin luomaa käyttäjän.
 
 ![image](https://user-images.githubusercontent.com/93308960/198053058-38b47ac0-81ee-4383-a970-f9b2f641aa29.png)
-
 
 
 
