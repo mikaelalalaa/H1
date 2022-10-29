@@ -115,7 +115,7 @@ Tehtävänä oli löytää mistä kyseinen kuva on otettu.
 
 ![image](https://user-images.githubusercontent.com/93308960/198121367-44c42ee5-b2f8-4577-a627-2b9d3962ac21.png)
 
-
+Aloitettiin katsomalla kuvan metadataa, avaamalla kuvan `Properties -> Details välilehti`. 
 
 
 ![image](https://user-images.githubusercontent.com/93308960/198697037-36994299-8c09-4681-a655-496aa540ce05.png)
