@@ -39,12 +39,22 @@ Testasin että asennus onnistui kirjoittamalla selaimeen `http://localhost:8080/
 
 ## b) Tehtävät "HTTP Basics" ja "Developer tools"
 
-Tein ensiksi tehtävän HTTP Basics. Tässä oli tarkoitus tutustua 
+### HTTP Basics. 
 
+Painamalla GO näppäintä ilmestyi tiedosto `attack2`, jonka jälkeen avasin viereisessä ikkunassa `Request` välilehden josta löytyi magic number.
 
-![image](https://user-images.githubusercontent.com/93308960/198056370-92420114-f4a3-4f4b-b031-df105b660ccb.png)
+eli tehtävän vastaukset olivat
 
+```
+HTTP komento : POST
 
+Magic number : 38
+
+```
+
+### Developer tools
+
+Ensimmäinen tehtävä oli suorittaa Consolessa javasripct koodi jonka jälkeen tämä tulostaa numerosarjan 
 
 ![image](https://user-images.githubusercontent.com/93308960/198058501-cfab93f9-75a2-4703-9fa8-94eaff9eb68c.png)
 
@@ -71,7 +81,7 @@ Yhteyden saatua katsoin readme teidoston sisällön `cat readme`, joka sisälsi 
 
 ![image](https://user-images.githubusercontent.com/93308960/198090384-c690224d-b76c-4b0f-adb6-2a380eae29d7.png)
 
-Otin muistiin salasanan ja lopetin yheyden `exit` komenolla. Otin uuden ssh yhteyden toiselle käyttäjälle `ssh bandit1@bandit.labsoverthewire.org -p 2220` ja salasanana toimi muistiin otettu salasana. 
+Otin muistiin salasanan ja lopetin yheyden `exit` komenolla. Otin uuden ssh yhteyden toiselle käyttäjälle `ssh bandit1@bandit.labsoverthewire.org -p 2220`.
 
 ![image](https://user-images.githubusercontent.com/93308960/198090455-b49b54f0-a927-4261-bc4a-4b017ccf0656.png)
 
@@ -106,18 +116,22 @@ Sitten vaan startattiin kone, salasana ja käyttäjä löytyi netistä. Tässä 
 
 Valitsin tehtävän *Where was this picture taken? 2/4* 
 
-![image](https://user-images.githubusercontent.com/93308960/198120197-67191197-bf8a-4722-9457-6307868050a6.png)
+Tehtävänä oli löytää mistä kyseinen kuva on otettu.
+
+![image](https://user-images.githubusercontent.com/93308960/198121367-44c42ee5-b2f8-4577-a627-2b9d3962ac21.png)
 
 
-
-![image](https://user-images.githubusercontent.com/93308960/198696888-2a51d11f-aae2-4e63-993d-5ba7d05a889e.png)
 
 
 ![image](https://user-images.githubusercontent.com/93308960/198697037-36994299-8c09-4681-a655-496aa540ce05.png)
 
 
+![image](https://user-images.githubusercontent.com/93308960/198696888-2a51d11f-aae2-4e63-993d-5ba7d05a889e.png)
 
-![image](https://user-images.githubusercontent.com/93308960/198121367-44c42ee5-b2f8-4577-a627-2b9d3962ac21.png)
+
+
+![image](https://user-images.githubusercontent.com/93308960/198120197-67191197-bf8a-4722-9457-6307868050a6.png)
+
 
 Blackpool Tower, Englanti
 
