@@ -141,3 +141,7 @@ https://stackoverflow.com/questions/42187323/how-to-open-a-dashed-filename-using
 
 https://darknetdiaries.com/episode/53/
 
+https://overthewire.org/wargames/
+
+https://2021.challenge.fi/
+
