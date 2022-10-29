@@ -59,7 +59,7 @@ Magic number : 38
 
 ### Developer tools
 
-Ensimmäinen tehtävä oli suorittaa Consolessa javasripct koodi jonka jälkeen tämä tulostaa numerosarjan `-449513090`. 
+Ensimmäinen tehtävä oli suorittaa Consolessa JavaScript funktio `webgoat.customjs.phoneHome()` jonka jälkeen tämä tulostaa numerosarjan `-449513090`. 
 
 ![image](https://user-images.githubusercontent.com/93308960/198060919-db064a89-1f97-4b60-811d-91046ecbffce.png)
 
