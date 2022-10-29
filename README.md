@@ -46,6 +46,7 @@ Testasin että asennus ja palvelimen käynnistäminen onnistui kirjoittamalla se
 
 ### HTTP Basics. 
 
+Painettiin F12 nappia jolloin avautuu selaimen Developer tool, siinä mennään network välilehdelle.
 Painamalla GO näppäintä ilmestyi tiedosto `attack2`, jonka jälkeen avasin viereisessä ikkunassa `Request` välilehden josta löytyi magic number.
 
 eli tehtävän vastaukset olivat
