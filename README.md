@@ -2,7 +2,6 @@
 
 
 
-
 ## x) darknet diaries ep: 53 Shadow Brokers
 
 [Linkki jaksoon löytyy tästä!](https://darknetdiaries.com/episode/53/)
@@ -147,3 +146,5 @@ https://overthewire.org/wargames/
 https://2021.challenge.fi/
 
 https://support.google.com/maps/answer/18539?hl=en&co=GENIE.Platform%3DDesktop
+
+https://terokarvinen.com/2022/tunkeutumistestaus-ict4tn027-3010-syksylla-2022/#h1-kutsu-vuohi-ja-pimean-verkon-paivakirjat
