@@ -55,7 +55,11 @@ Magic number : 38
 
 ### Developer tools
 
-Ensimmäinen tehtävä oli suorittaa Consolessa javasripct koodi jonka jälkeen tämä tulostaa numerosarjan 
+Ensimmäinen tehtävä oli suorittaa Consolessa javasripct koodi jonka jälkeen tämä tulostaa numerosarjan. 
+
+![image](https://user-images.githubusercontent.com/93308960/198060919-db064a89-1f97-4b60-811d-91046ecbffce.png)
+
+Viimeisenä tehtävänä oli HTTP pyynnöstä randomoitu numero. Aloitettiin painamalla Go näppäintä jolloin tuli semmoinen tiedosto kun `network`. Tässä taas vastaus löytyi `Request` välilehdeltä
 
 ![image](https://user-images.githubusercontent.com/93308960/198058501-cfab93f9-75a2-4703-9fa8-94eaff9eb68c.png)
 
@@ -63,7 +67,7 @@ Ensimmäinen tehtävä oli suorittaa Consolessa javasripct koodi jonka jälkeen 
 ![image](https://user-images.githubusercontent.com/93308960/198060597-2d434e3e-9478-40c8-85b1-0638aa764bbf.png)
 
 
-![image](https://user-images.githubusercontent.com/93308960/198060919-db064a89-1f97-4b60-811d-91046ecbffce.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/93308960/198058394-fc4c21c4-6749-4900-9dde-0d81a86073d6.png)
