@@ -133,9 +133,11 @@ Varmistin vielä että osasin laittaa koordinaatit oikein avaamalla kuvan ja pai
 ![image](https://user-images.githubusercontent.com/93308960/198697037-36994299-8c09-4681-a655-496aa540ce05.png)
 
 
+## lähteet
 
+https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/
 
+https://stackoverflow.com/questions/42187323/how-to-open-a-dashed-filename-using-terminal
 
-
-
+https://darknetdiaries.com/episode/53/
 
